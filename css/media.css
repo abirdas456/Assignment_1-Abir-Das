@@ -1,0 +1,52 @@
+/* extra small device  */
+@media (max-width :575.95px){
+    .c_h1{
+        font-size: 18px;
+        
+    }
+    .c_p1{
+        font-size: 12px;
+        font-weight: 500 !important;
+    }
+    .special{
+        padding-bottom: 7px;
+    }
+
+}
+
+/* small device  */
+@media(min-width :576px) and (max-width :767px){
+    .c_h1{
+        font-size: 18px;
+        
+    }
+    .c_p1{
+        font-size: 12px;
+        font-weight: 500 !important;
+    }
+    .special{
+        padding-bottom: 7px;
+    }
+
+
+}
+
+
+/* medium */
+@media(min-width : 768px) and (max-width :991px){
+    .c_p1{
+        font-size: 12px;
+        font-weight: 500 !important;
+    }
+    .special{
+        padding-bottom: 7px;
+    }
+    
+    
+}
+
+/* large  */
+@media(min-width :992px) and (max-width : 1199px){}
+
+/* extra large  */
+@media(max-width : 1200px){}

@@ -1,0 +1,48 @@
+/* slider start  */
+
+.image{
+    max-width: 100%;
+    max-height: 100vh;
+
+}
+/* slider end  */
+
+/* about us  start */
+.c_title{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.c_h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: orange;
+    margin-bottom: 15px;
+}
+.c_p1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    color: black;
+    text-align: center;
+
+}
+
+
+ /* card strat  */
+ .button-color{
+    color: orange;
+ }
+ .correct-content{
+    text-align: center;
+ }
+ /* card end  */
+
+ /* footer  */
+ footer {
+    position: relative;
+    width: 100vw;
+    left: calc(-50vw + 50%);
+}
+
